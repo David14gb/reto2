@@ -5,3 +5,6 @@
 # git commit - m "comentario", para confirmar los cambios 
 # git status, para saber que todo está bien
 # git push, para subirlo
+
+
+Nuevamente lo he subido y las imágenes y la carpeta han sido ignoradas
