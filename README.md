@@ -8,3 +8,5 @@
 
 
 Nuevamente lo he subido y las imágenes y la carpeta han sido ignoradas
+
+Los cambios hechos se han modificado y se han tenido que volver a subir, para que la fusión sea la acertada
